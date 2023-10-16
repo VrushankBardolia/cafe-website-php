@@ -1,5 +1,5 @@
 # Cafe Website
-This is a cafe website  project, which is part of a PHP Journal
+This is a cafe website project, which is part of a PHP Journal of TY BCA Sem-5
 
 ### Functionalities:
 - User can reserve a table
